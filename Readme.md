@@ -3,7 +3,8 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/environmental-data-science/eds-217/main?labpath=exercises%2Findex.ipynb)
 
 
-## [Course Syllabus](https://bit.ly/syllabus-eds-217)
+
+## [Course Website](https://bit.ly/eds-217)
 
 
 Course Description
